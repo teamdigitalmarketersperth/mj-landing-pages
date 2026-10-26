@@ -1,0 +1,7 @@
+# Local browser-testing artifacts
+.playwright-mcp/
+
+# OS / editor clutter
+Thumbs.db
+.DS_Store
+.vscode/
